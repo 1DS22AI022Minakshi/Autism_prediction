@@ -1,6 +1,6 @@
 
 
-# ASD Predictor – Streamlit App Using CNN
+# Autism_prediction– Streamlit App Using CNN
 
 This Streamlit application predicts the likelihood of Autism Spectrum Disorder (ASD) from image input using a Convolutional Neural Network (CNN) model.
 
@@ -29,7 +29,7 @@ The CNN model was trained on a curated dataset of facial images, labeled for ASD
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/1DS22AI022Minakshi/asd-predictor
+    git clone https://github.com/1DS22AI022Minakshi/Autism_prediction
     cd asd-predictor
     ```
 
